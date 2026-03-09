@@ -21,7 +21,7 @@ The analysis is presented through an interactive Tableau dashboard that transfor
 
 ### Mental Health Overview
 
-![Mental Health Overview](images/dashboard_overview.png)
+![Mental Health Overview](images/Dashboard_overview.png)
 
 This dashboard presents a high level summary of mental health trends among professionals working in the technology sector. It highlights patterns in awareness, workplace attitudes, and general responses related to mental health.
 
