@@ -1,7 +1,5 @@
 # Mental Health in Tech – Tableau Dashboard
 
-![Dashboard Preview](images/dashboard_overview.png)
-
 ## Overview
 
 This project explores mental health trends within the technology industry using survey data and interactive visualization. The goal is to identify patterns related to workplace support, mental health awareness, and employee attitudes in the tech sector.
